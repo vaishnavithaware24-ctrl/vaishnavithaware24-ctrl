@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vaishnavi Thaware
+#  Hi there, I'm Vaishnavi Thaware
 
 ## I ❤️...
 
@@ -23,6 +23,9 @@
 - 💻 Building practical projects using **Python and Machine Learning**
 - 🌱 Always learning and exploring new technologies
 - 🎯 Aspiring to become a successful **AI/ML Engineer**
+- 💡 Mission: Build **AI-powered solutions** that solve real-world problems
+
+📫 **Reach me:** [vaishnavithaware719@gmail.com](mailto:vaishnavithaware719@gmail.com)
 
 ---
 
