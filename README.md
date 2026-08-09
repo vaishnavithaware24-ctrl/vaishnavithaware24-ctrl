@@ -151,26 +151,26 @@ My goal is to continuously improve my AI and Machine Learning skills and build *
 
 ---
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavithaware24-ctrl&show_icons=true&theme=tokyonight&hide_border=true"
+  <img src="https://github-stats-extended.vercel.app/api?username=vaishnavithaware24-ctrl&show_icons=true&theme=tokyonight"
        height="150"
-       alt="GitHub Stats">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavithaware24-ctrl&layout=compact&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats"/>
+  
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaishnavithaware24-ctrl&layout=compact&theme=tokyonight"
        height="150"
-       alt="Top Languages">
+       alt="Top Languages"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+<h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vaishnavithaware24-ctrl&theme=tokyonight&hide_border=true"
-       height="160"
-       alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=vaishnavithaware24-ctrl&theme=tokyonight&hide_border=true&border_radius=5"
+       height="170"
+       alt="GitHub Streak"/>
 </p>
 
 ---
