@@ -39,8 +39,7 @@
 **Technologies:**  
 `Python` `TensorFlow` `Keras` `OpenCV` `Deep Learning`
 
-🔗 **View Repository:**  
-https://github.com/vaishnavithaware24-ctrl/Self-driving-car
+🔗 [View Repository](https://github.com/vaishnavithaware24-ctrl/Self-driving-car)
 
 ---
 
@@ -52,8 +51,7 @@ https://github.com/vaishnavithaware24-ctrl/Self-driving-car
 **Technologies:**  
 `Python` `NLP` `Chatbot`
 
-🔗 **View Repository:**  
-https://github.com/vaishnavithaware24-ctrl/simple-chatbot
+🔗 [View Repository](https://github.com/vaishnavithaware24-ctrl/simple-chatbot)
 
 ---
 
@@ -65,8 +63,7 @@ https://github.com/vaishnavithaware24-ctrl/simple-chatbot
 **Technologies:**  
 `Python` `Pandas` `NumPy` `Scikit-learn` `NLP`
 
-🔗 **View Repository:**  
-https://github.com/vaishnavithaware24-ctrl/spam-email-classifier
+🔗 [View Repository](https://github.com/vaishnavithaware24-ctrl/spam-email-classifier)
 
 ---
 
@@ -78,8 +75,7 @@ https://github.com/vaishnavithaware24-ctrl/spam-email-classifier
 **Technologies:**  
 `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
-🔗 **View Repository:**  
-https://github.com/vaishnavithaware24-ctrl/house-price-prediction
+🔗 [View Repository](https://github.com/vaishnavithaware24-ctrl/house-price-prediction)
 
 ---
 
