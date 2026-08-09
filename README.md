@@ -1,4 +1,4 @@
-#  Hi there, I'm Vaishnavi Thaware
+###  Hi there, I'm Vaishnavi Thaware
 
 ## I ❤️...
 
@@ -12,26 +12,19 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Student specializing in **Artificial Intelligence**
+- 🎓 B.Tech student specializing in **Artificial Intelligence**
 - 🤖 Passionate about **Artificial Intelligence & Machine Learning**
 - 🧠 Interested in **Deep Learning, Computer Vision & NLP**
-- 📊 Exploring **Data Science & Predictive Analytics**
-- 🚗 Working on **Self-Driving Cars & Autonomous Systems**
-- ✨ Exploring **Generative AI & Large Language Models**
-- 💻 Building AI/ML projects using **Python**
+- 📊 Exploring **Data Science and Predictive Analytics**
+- 🚗 Working on **Autonomous Driving and Self-Driving Car Simulation**
+- 💬 Interested in **Generative AI and Large Language Models**
+- 💻 Building practical projects using **Python and Machine Learning**
 - 🌱 Always learning and exploring new technologies
 - 🎯 Aspiring to become a successful **AI/ML Engineer**
-- 💡 Mission: Build **AI-powered solutions** that solve real-world problems
 
 📫 **Reach me:** [vaishnavithaware719@gmail.com](mailto:vaishnavithaware719@gmail.com)
-
 ---
 
 ## 🚀 Featured Projects
@@ -40,12 +33,13 @@
 
 - AI-based autonomous driving simulation developed using the **Udacity Self-Driving Car Simulator**.
 - Uses computer vision and deep learning to predict steering behavior.
-- Exploring intelligent voice and LLM-based interaction for autonomous driving.
+- Working towards integrating intelligent voice/LLM-based interaction.
 
 **Technologies:**  
 `Python` `TensorFlow` `Keras` `OpenCV` `Deep Learning`
 
-🔗 [View Repository](https://github.com/vaishnavithaware24-ctrl/Self-driving-car)
+🔗 **View Repository:**  
+https://github.com/vaishnavithaware24-ctrl/Self-driving-car
 
 ---
 
@@ -57,7 +51,8 @@
 **Technologies:**  
 `Python` `NLP` `Chatbot`
 
-🔗 [View Repository](https://github.com/vaishnavithaware24-ctrl/simple-chatbot)
+🔗 **View Repository:**  
+https://github.com/vaishnavithaware24-ctrl/simple-chatbot
 
 ---
 
@@ -69,7 +64,8 @@
 **Technologies:**  
 `Python` `Pandas` `NumPy` `Scikit-learn` `NLP`
 
-🔗 [View Repository](https://github.com/vaishnavithaware24-ctrl/spam-email-classifier)
+🔗 **View Repository:**  
+https://github.com/vaishnavithaware24-ctrl/spam-email-classifier
 
 ---
 
@@ -81,19 +77,8 @@
 **Technologies:**  
 `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
-🔗 [View Repository](https://github.com/vaishnavithaware24-ctrl/house-price-prediction)
-
----
-
-### 📦 Supply Chain Classification
-
-- Machine Learning project related to supply-chain data classification.
-- Focuses on data preprocessing and classification techniques.
-
-**Technologies:**  
-`Python` `Machine Learning` `Data Science`
-
-🔗 [View Repository](https://github.com/shraddha-252/Supply-chain-classification)
+🔗 **View Repository:**  
+https://github.com/vaishnavithaware24-ctrl/house-price-prediction
 
 ---
 
@@ -101,19 +86,35 @@
 
 ### 💻 Programming Languages
 
-`Python` `C` `C++` `Java`
+- Python
+- C
+- C++
+- Java
 
 ### 🤖 AI & Machine Learning
 
-`Machine Learning` `Deep Learning` `TensorFlow` `Keras` `Scikit-learn` `OpenCV`
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Keras
+- Scikit-learn
+- OpenCV
 
 ### 📊 Data Science
 
-`Pandas` `NumPy` `Matplotlib` `Data Analysis` `Data Visualization`
+- Pandas
+- NumPy
+- Matplotlib
+- Data Analysis
+- Data Visualization
 
 ### 🔧 Tools & Platforms
 
-`Git` `GitHub` `VS Code` `Jupyter Notebook` `Google Colab`
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
 
 ---
 
@@ -192,13 +193,11 @@ My goal is to continuously improve my AI and Machine Learning skills and build *
 <p align="center">
 
 <a href="https://github.com/vaishnavithaware24-ctrl">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-       alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/vaishnavi-thaware-a95a5b356/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-       alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
