@@ -24,7 +24,7 @@
 - 🌱 Always learning and exploring new technologies
 - 🎯 Aspiring to become a successful **AI/ML Engineer**
 
-📫 **Reach me:** [vaishnavithaware719@gmail.com](mailto:vaishnavithaware719@gmail.com)
+📫 Reach me: [vaishnavithaware719@gmail.com](mailto:vaishnavithaware719@gmail.com)
 ---
 
 ## 🚀 Featured Projects
