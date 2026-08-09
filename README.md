@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Vaishnavi Thaware
+#  Hi there, I'm Vaishnavi Thaware
 
 ## I ❤️...
 
